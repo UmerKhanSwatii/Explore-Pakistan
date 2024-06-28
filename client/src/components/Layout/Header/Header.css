@@ -1,0 +1,18 @@
+#dark .text-color-header{
+  color: white;
+}
+#light .text-color-header{
+    color: black;
+}
+#dark .text-color-search{
+    color: white;
+  }
+  #light .text-color-search{
+      color: gray;
+  }
+  #dark .all-headings-textColor{
+    color:white
+  }
+  #light .all-headings-textColor{
+    color:#3A6A3B
+  }
